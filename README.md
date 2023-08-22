@@ -3,6 +3,8 @@
 ## Problem Statement
 In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room usage. Consequently, lowering cancellation rates are both hotels' primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to resolve this problem.
 
+<img src="https://github.com/charmieboo/hotel-bookings-analytics/assets/117857989/44ca708d-deb9-4c3f-8c51-f7140c1c8863" width="500" height="280">
+
 ## Assumptions
 1. No unusual occurrences between 2015 and 2017 will have a substantial impact on the data used.
 2. The information is still current and can be used to analyze a hotel's possible plans in an efficient manner.
